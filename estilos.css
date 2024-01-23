@@ -4,6 +4,10 @@ h1 {
 h2 {
     color: brown;
 }
+div{
+    border-style: solid;
+    border-color: blue;
+}
 .nav {
     color: chocolate;
 }
@@ -22,4 +26,8 @@ h2 {
 #footer3{
     color:crimson;
     background-color: yellowgreen;
+}
+#footer4{
+    color: aquamarine;
+    background-color: blue;
 }
