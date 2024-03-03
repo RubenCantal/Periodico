@@ -5,14 +5,14 @@ h2 {
     color: brown;
 }
 div{
-    border-style: solid;
+    border-style: dotted;
     border-color: blue;
 }
 .nav {
     color: chocolate;
 }
 #footer0{
-    color:blue;
+    color:green;
     background-color: bisque;
 }
 #footer1{
@@ -21,13 +21,13 @@ div{
 }
 #footer2{
     color:green;
-    background-color:azure;
+    background-color:white;
 }
 #footer3{
     color:crimson;
     background-color: yellowgreen;
 }
 #footer4{
-    color: aquamarine;
-    background-color: blue;
+    color: blue;
+    background-color: mediumaquamarine;
 }
